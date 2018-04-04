@@ -2,7 +2,7 @@
 
 namespace ViewModels.Mapper
 {
-    public static class BatchExtensions
+    public static class DonkeyExtensions
     {
         public static DonkeyViewModel ToBatchViewModel(this Donkey donkey)
         {
